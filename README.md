@@ -9,7 +9,8 @@ is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 ## Getting started
 To get started with the app, clone the repo and then install the needed
-gems:```
+gems:
+```
 $ bundle install --without production
 ```
 Next, migrate the database:
