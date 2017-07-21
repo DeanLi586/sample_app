@@ -27,8 +27,16 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
+# Use faker to create fake users
+gem 'faker'
+# Use paginate for pagination
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+
+# Use sweetalert for alerts
+gem 'sweetalert2'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
