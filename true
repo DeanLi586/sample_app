@@ -1,0 +1,2 @@
+== 20170723162759 CreateMicroposts: migrating =================================
+-- create_table(:microposts)
